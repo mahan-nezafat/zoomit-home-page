@@ -1,5 +1,5 @@
-# zoomit-landing-page
-zoomit.ir responsive landing page with HTML,CSS,JS
+# zoomit-home-page
+zoomit.ir responsive home  page with HTML,CSS,JS
 
 # description 
 
