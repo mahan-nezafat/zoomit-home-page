@@ -16,3 +16,11 @@ with the knowledge that I had from [sheypoor-landing-page](https://github.com/ma
 I was able to overcome these challenges.
 
 as of today the design of zoomit website has changed and this project of mine is from design of the older version of the site.
+
+# Live Link
+
+the page is currently live on https://zoomit-home-page.vercel.app/
+
+# copy-right
+
+this impelentation is just for practice purposes and for non-commercial use
